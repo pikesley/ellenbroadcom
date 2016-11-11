@@ -1,16 +1,16 @@
 # main text of home
-name: Ellen Broad
-bio: I like data and I like to dance
+name: John Doe
+bio: A Man who travels the world eating noodles
 
 # twitter summary info
-description: a little bit about me and stuff
+description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
 picture: assets/images/profile.jpg
 
-url: https://ellenbroad.github.io
+url: https://koppl.in/indigo
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -26,32 +26,38 @@ highlighter: rouge
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, set to false
-# disqus: mydisqus
+disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-# facebook: myfacebook
-twitter: @ellenbroad
+facebook: myfacebook
+twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
-# youtube: myyoutube
-# spotify: myspotify
-github: ellenbroad
-# stackoverflow: 7044681/mystackoverflow
-# quora: userquora
-# reddit: username
-medium: @ellenbroad
-# vimeo: myvimeo
-email: ellen@ellenbroad.com
+youtube: myyoutube
+spotify: myspotify
+github: mygithub
+stackoverflow: 7044681/mystackoverflow
+quora: userquora
+reddit: username
+medium: medium
+vimeo: myvimeo
+email: myemail@gmail.com
 
 authors:
-    ellenbroad:
-        name: Ellen Broad
-        bio: I like data and I like to dance
+    johndoe:
+        name: John Doe
+        bio: A Man who travels the world eating noodles
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: @ellenbroad
+        twitter: johndoe
+    jamesfoster:
+        name: James Foster
+        bio: A Man who develops software with coffee
+        external-image: false
+        picture: assets/images/james.jpg
+        twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -66,11 +72,11 @@ width: normal
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: true
+about: false
 blog: true
 
 # do you want to show the "read time" of the posts?
-read-time: false
+read-time: true
 
 # do you want to show the "tags" inside the posts?
 show-tags: true
@@ -82,10 +88,10 @@ related: true
 blog-nav-links: false
 
 # show author block at the end of a post ?
-show-author: false
+show-author: true
 
 # do you want some animations?
-animation: false
+animation: true
 
 sass:
     sass_dir: _sass
