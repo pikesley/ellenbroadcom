@@ -1,5 +1,5 @@
 # main text of home
-name: Ellen Broad 
+name: Ellen Broad
 bio: A woman who travels the world eating noodles
 
 # twitter summary info
@@ -35,15 +35,15 @@ twitter: ellenbroad
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
+# youtube: myyoutube
+# spotify: myspotify
 github: mygithub
-stackoverflow: 7044681/mystackoverflow
-quora: userquora
-reddit: username
-medium: medium
-vimeo: myvimeo
-email: myemail@gmail.com
+# stackoverflow: 7044681/mystackoverflow
+# quora: userquora
+# reddit: username
+# medium: medium
+# vimeo: myvimeo
+# email: myemail@gmail.com
 
 authors:
     johndoe:
