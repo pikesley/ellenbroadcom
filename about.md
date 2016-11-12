@@ -4,43 +4,26 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I'm Ellen. I'm a freelance data consultant based in Canberra, Australia. I'm also an Associate with the <a href="www.theodi.org">Open Data Institute</a>, where I was Head of Policy before moving back to Australia. I've been working in data and digital for six years now, in the UK, Europe and Australia. You can find out more about my professional experience at <a href="https://www.linkedin.com/in/ellen-broad-316b6732LinkedIn">LinkedIn.</a></p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I like talking to people about their data projects and plans. I also like talking about other things like films, board games (I even co-designed a <a href="http://theodi.org/news/you-can-now-buy-your-own-copy-of-datopolis-the-open-data-board-game">board game about data</a>) and Beyonce. If you have a data project you'd like to discuss (or just want to play a data board game), email me at [myfirstname]@ellenbroad.com</p>
 
-<h2>Skills</h2>
+<h2>Expertise</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Open data</li>
+	<li>Personal data management</li>
+	<li>Data policy - data protection, sharing and reuse</li>
+	<li>Organisational data strategies</li>
+	<li>Law and licensing</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>My work involves</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li>Developing organisational data policies and strategies</li>
+	<li>Providing expert advice on topical data policy issues</li>
+	<li>Delivering data training and interactive workshops</li>
+	<li>Identifying data-related risks and ways of addressing them</li>
+	<li>Coming up with creative ways to engage people about data</li>
 </ul>
