@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-I'm a data policy wonk and aspiring data scientist, who moved back to Australia in September 2016 after working in London, the Hague and Paris.
+I'm a data policy wonk and data tinkerer, who moved back to Australia in September 2016 after working in London, the Hague and Paris.
 
 Until recently I was Head of Policy for the [Open Data Institute](www.theodi.org), an international organisation headquartered in London. Right now I'm a freelance [consultant](http://ellenbroad.com/consulting) while doing postgraduate work in data science.
 
